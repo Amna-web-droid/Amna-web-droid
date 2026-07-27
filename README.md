@@ -28,5 +28,4 @@ I'm a MERN stack developer, currently teaching myself full-stack development and
 ---
 
 ### 📊 GitHub Stats
-
-![Amna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amna-web-droid&show_icons=true&theme=default)
+![Amna's GitHub stats](https://github-stats-extended.vercel.app/api?username=Amna-web-droid&show_icons=true&theme=default)
